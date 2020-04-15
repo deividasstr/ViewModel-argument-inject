@@ -1,0 +1,3 @@
+package com.deividasstr.daggervmargs
+
+abstract class ViewModelArgument
